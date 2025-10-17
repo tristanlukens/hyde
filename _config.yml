@@ -16,6 +16,8 @@ author:
   name: "Tristan Lukens"
   url: https://tristanlukens.com
 
+paginate: 5
+
 include: ["_pages"]
 
 name: tristan
