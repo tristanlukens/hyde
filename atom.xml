@@ -4,7 +4,7 @@
  <title>tristanlukens</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2025-10-18T13:56:58+00:00</updated>
+ <updated>2025-10-18T15:00:13+00:00</updated>
  <id></id>
  <author>
    <name>Tristan Lukens</name>
@@ -13,20 +13,39 @@
 
  
  <entry>
-   <title>MAX MAX MAX SUPER MAX</title>
-   <link href="/posts/nl/2025/nederlandse-post"/>
+   <title>Het is weer zover — deze website is weer eens veranderd</title>
+   <link href="/posts/nl/2025/jekyll"/>
    <updated>2025-10-18T00:00:00+00:00</updated>
-   <id>/posts/nl/2025/nederlandse-post</id>
-   <content type="html">&lt;p&gt;Dit is een Nederlandse post.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Test post</title>
-   <link href="/posts/en/2025/test-post"/>
-   <updated>2025-10-15T00:00:00+00:00</updated>
-   <id>/posts/en/2025/test-post</id>
-   <content type="html">&lt;p&gt;hey!&lt;/p&gt;
+   <id>/posts/nl/2025/jekyll</id>
+   <content type="html">&lt;p&gt;Ik heb voor de zevende keer mijn website vernieuwd. In — wat? — 3 jaar ofzo. Maar nu gebruik ik Jekyll, een static site generator, met het thema Hyde. En ik moet zeggen… wat een genot om alles niet vanaf nul te doen.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In het verleden deed ik dat namelijk wel. Vaak met Svelte(Kit) en Tailwind, met een aparte cms. En daar ben ik een beetje klaar mee, want je bent heel afhankelijk van erg veranderlijke open source projecten en een cms (Hygraph, of GraphCMS toen ik ermee begon. Opa vertelt) die steeds meer locked-down wordt. Natuurlijk kun je wel zoveel mogelijk stabiele versies blijven gebruiken (&lt;a href=&quot;https://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning&quot;&gt;semver&lt;/a&gt; and all that), maar het blijft altijd een gedoe.&lt;/p&gt;
+
+&lt;h2 id=&quot;test&quot;&gt;test&lt;/h2&gt;
+
+&lt;p&gt;Elke keer als ik de website weer wilde vernieuwen, of in ieder geval updaten, kreeg ik een muur van errors naar m’n hoofd gesmeten. Dat werkt behoorlijk demotiverend, I can tell ya that. Dus koos ik nu voor Jekyll. Omdat het domweg simpeler is. Ik heb immers niet de tijd om een website iedere week bij te houden.&lt;/p&gt;
+
+&lt;p&gt;Toen ik het project aanmaakte voor deze site, moest ik een aantal verouderde dingen aanpassen (voornamelijk dingen die te maken hadden met upgraden van Jekyll en Ruby), maar dat was zo gepiept. Alles werkt gewoon.&lt;/p&gt;
+
+&lt;p&gt;Is het fancy? Niet echt. Heeft het alles wat ik nodig heb? Absoluut. Ja, ik heb liever de vrijheid om alles aan te passen om de perfecte website te maken die m’n hartje begeert, maar dat kost tijd.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;With great power comes great responsibility&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/@Matt_Rose&quot;&gt;Matt Rose&lt;/a&gt; ofzo weet ik veel&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Het klinkt allemaal leuk en aardig, maar er zit wel een kern van waarheid in. Als je die vrijheid wil, dan komt daar ook de verantwoorlijkheid bij alles te onderhouden. En daar heb ik dus geen &lt;a href=&quot;https://www.youtube.com/watch?v=yKMXOeEgte8&quot;&gt;zin in in&lt;/a&gt; en geen tijd voor.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Ik wil eigenlijk nog wel een optie toevoegen om alle Nederlandse, en alle Engelse posts te kunnen zien. Verder zou een taalswitcher voor de menu’s ook wel mooi zijn, maar ik weet niet of dat wel kan.&lt;/p&gt;
+
+&lt;p&gt;Je kunt wel bij alle aparte &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.css&lt;/code&gt;-bestanden, dus je kunt alsnog wel heel veel aanpassen. Sommige dingen zitten echter gewoon in Jekyll gebakken. Voor nu ben ik blij. Ik ben vier dagen beziggeweest en ben klaar. Dat is een heel contrast met die vorige versies — daar zat ik 3 week aan. Allerlei shit met gql, dat mis ik echt niet hoor! Met Jekyll is alles gewoon bestanden op GitHub. Alles gehost op GitHub, met Pages.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/tristanlukens/dev.tristanlukens.com&quot;&gt;De repo is open source. Have a look.&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -50,6 +69,29 @@
 &lt;p&gt;With this new drumset I have implemented a little practice routine, which I hope will make my overall drumming a bit better.&lt;/p&gt;
 
 &lt;p&gt;At the time of writing I’m still thinking about keeping the previous version of this website — with all its content, both covers and articles — up so you can see the difference. Not sure though.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On Sleep Token's new-ish record "Even In Arcadia"</title>
+   <link href="/posts/en/2025/even-in-arcadia"/>
+   <updated>2025-07-21T00:00:00+00:00</updated>
+   <id>/posts/en/2025/even-in-arcadia</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;On the 9th of May this year, Sleep Token — one of my favourite bands — dropped their highly anticipated fourth album titled “Even In Arcadia”. And good lord, it’s amazing.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The morning of that day I called the record store I usually go to, and asked them if I could order the CD and get it the same day. If yes, I would stay off social media and avoid hearing anything off the album, so when I’d get home, I could hear it the first time on good speakers and in one go.&lt;/p&gt;
+
+&lt;p&gt;And you already know that the answer’s yes.&lt;/p&gt;
+
+&lt;p&gt;I meandered over to the store, bought the CD (along side like 16 other second hand CDs) and headed home.&lt;/p&gt;
+
+&lt;p&gt;After I had made a cup of tea it was fucking go time.&lt;/p&gt;
+
+&lt;p&gt;I inserted the disc into my player, turned on my amplifier, and pressed play. My journal was right in front of me for taking notes. I ended up writing a couple of things down, but I was locked in to the music for the most part.&lt;/p&gt;
+
+&lt;p&gt;Let me tell you, I was blown away. Masterpiece of an album. Absolutely highly recommend.&lt;/p&gt;
 </content>
  </entry>
  
