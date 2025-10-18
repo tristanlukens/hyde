@@ -11,7 +11,7 @@ title: Home
     </h1>
 
     <span class="post-date"
-      >{{ post.date | date: "%B %e, %Y" }} {% if post.lang %}&middot; {{
+      >{{ post.date | localize: "%e %B %Y" }} {% if post.lang %}&middot; {{
       post.lang }} {% endif %}</span
     >
 
@@ -28,7 +28,7 @@ title: Home
     >Older</a
   >
   {% else %}
-  <span class="pagination-item older">Older</span>
+  <span class="pagination-item older">Ouder</span>
   {% endif %} {% if paginator.previous_page %} {% if paginator.page == 2 %}
   <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
   {% else %}
@@ -38,6 +38,6 @@ title: Home
     >Newer</a
   >
   {% endif %} {% else %}
-  <span class="pagination-item newer">Newer</span>
+  <span class="pagination-item newer">Nieuwer</span>
   {% endif %}
 </div>

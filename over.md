@@ -1,10 +1,9 @@
 ---
 layout: page
-title: I'm Tristan.
-permalink: /about
+title: Over mij
 ---
 
-<p class="message">TODO: update</p>
+<p class="message">TODO: updaten + vertalen</p>
 
 I'm nineteen years old, and from the Netherlands. I've been obsessed with drumming for over eleven years, have a soft spot for everything computers, and I'm currently a student in Chemical Engineering.
 

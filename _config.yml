@@ -8,17 +8,20 @@ permalink: /:categories/:year/:title:output_ext
 
 # Setup
 title: tristanlukens
-description: "Drummer. Journaler. Music enthusiast. Collects cds. Chemical Engineer. Nailbiter. Likes whiskey."
+description: "Drummer. Journaler. Muziekliefhebber. Cd-verzamelaar. Chemisch Technoloog. Nagelsbijter. Houdt van whiskey."
 baseurl: ""
 plugins:
   - "jekyll-paginate"
   - "jekyll-feed"
   - "jekyll-sitemap"
   - "jekyll-seo-tag"
+  - "jekyll-date-localization"
 
 author:
   name: "Tristan Lukens"
   url: https://tristanlukens.com
+
+date_locale: nl
 
 paginate: 5
 
