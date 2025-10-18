@@ -4,7 +4,7 @@
  <title>tristanlukens</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2025-10-18T15:00:13+00:00</updated>
+ <updated>2025-10-18T15:01:50+00:00</updated>
  <id></id>
  <author>
    <name>Tristan Lukens</name>
@@ -22,8 +22,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;In het verleden deed ik dat namelijk wel. Vaak met Svelte(Kit) en Tailwind, met een aparte cms. En daar ben ik een beetje klaar mee, want je bent heel afhankelijk van erg veranderlijke open source projecten en een cms (Hygraph, of GraphCMS toen ik ermee begon. Opa vertelt) die steeds meer locked-down wordt. Natuurlijk kun je wel zoveel mogelijk stabiele versies blijven gebruiken (&lt;a href=&quot;https://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning&quot;&gt;semver&lt;/a&gt; and all that), maar het blijft altijd een gedoe.&lt;/p&gt;
-
-&lt;h2 id=&quot;test&quot;&gt;test&lt;/h2&gt;
 
 &lt;p&gt;Elke keer als ik de website weer wilde vernieuwen, of in ieder geval updaten, kreeg ik een muur van errors naar m’n hoofd gesmeten. Dat werkt behoorlijk demotiverend, I can tell ya that. Dus koos ik nu voor Jekyll. Omdat het domweg simpeler is. Ik heb immers niet de tijd om een website iedere week bij te houden.&lt;/p&gt;
 
