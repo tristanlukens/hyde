@@ -9,7 +9,7 @@ permalink: /:categories/:year/:title:output_ext
 # Setup
 title: tristanlukens
 description: "Drummer. Journaler. Music enthusiast. Collects cds. Chemical Engineer. Nailbiter. Likes whiskey."
-baseurl: /
+baseurl: ""
 plugins:
   - "jekyll-paginate"
   - "jekyll-feed"
