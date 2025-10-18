@@ -12,6 +12,9 @@ description: "Drummer. Journaler. Music enthusiast. Collects cds. Chemical Engin
 baseurl: /
 plugins:
   - "jekyll-paginate"
+  - "jekyll-feed"
+  - "jekyll-sitemap"
+  - "jekyll-seo-tag"
 
 author:
   name: "Tristan Lukens"
