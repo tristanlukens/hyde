@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/covers/2025/god-is-in-the-radio-drum-cover.html</loc>
+<loc>/covers/2025/god-is-in-the-radio-drum-cover</loc>
 <lastmod>2025-07-12T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/covers/2025/lydia-drum-cover.html</loc>
+<loc>/covers/2025/lydia-drum-cover</loc>
 <lastmod>2025-07-22T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/posts/en/2025/test-post.html</loc>
+<loc>/posts/en/2025/test-post</loc>
 <lastmod>2025-10-15T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/posts/nl/2025/nederlandse-post.html</loc>
+<loc>/posts/nl/2025/nederlandse-post</loc>
 <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>/cv</loc>
 </url>
 <url>
 <loc>/</loc>
 </url>
 <url>
-<loc>/over.html</loc>
+<loc>/over</loc>
 </url>
 </urlset>

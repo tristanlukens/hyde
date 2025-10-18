@@ -4,7 +4,7 @@
  <title>tristanlukens</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2025-10-18T13:22:15+00:00</updated>
+ <updated>2025-10-18T13:56:58+00:00</updated>
  <id></id>
  <author>
    <name>Tristan Lukens</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>MAX MAX MAX SUPER MAX</title>
-   <link href="/posts/nl/2025/nederlandse-post.html"/>
+   <link href="/posts/nl/2025/nederlandse-post"/>
    <updated>2025-10-18T00:00:00+00:00</updated>
    <id>/posts/nl/2025/nederlandse-post</id>
    <content type="html">&lt;p&gt;Dit is een Nederlandse post.&lt;/p&gt;
@@ -23,7 +23,7 @@
  
  <entry>
    <title>Test post</title>
-   <link href="/posts/en/2025/test-post.html"/>
+   <link href="/posts/en/2025/test-post"/>
    <updated>2025-10-15T00:00:00+00:00</updated>
    <id>/posts/en/2025/test-post</id>
    <content type="html">&lt;p&gt;hey!&lt;/p&gt;
@@ -32,7 +32,7 @@
  
  <entry>
    <title>Highly Suspect - Lydia | One take drum cover</title>
-   <link href="/covers/2025/lydia-drum-cover.html"/>
+   <link href="/covers/2025/lydia-drum-cover"/>
    <updated>2025-07-22T00:00:00+00:00</updated>
    <id>/covers/2025/lydia-drum-cover</id>
    <content type="html">&lt;iframe width=&quot;627&quot; height=&quot;353&quot; src=&quot;https://www.youtube.com/embed/xNtvdedIYqo&quot; title=&quot;Highly Suspect - Lydia | Drum cover&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -55,7 +55,7 @@
  
  <entry>
    <title>Queens of the Stone Age - God Is In the Radio | Drum cover</title>
-   <link href="/covers/2025/god-is-in-the-radio-drum-cover.html"/>
+   <link href="/covers/2025/god-is-in-the-radio-drum-cover"/>
    <updated>2025-07-12T00:00:00+00:00</updated>
    <id>/covers/2025/god-is-in-the-radio-drum-cover</id>
    <content type="html">&lt;iframe width=&quot;627&quot; height=&quot;353&quot; src=&quot;https://www.youtube.com/embed/zHChLL9V0Uo&quot; title=&quot;God is in the radio - QOTSA | version 1&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
