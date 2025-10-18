@@ -8,7 +8,7 @@ permalink: /:categories/:year/:title:output_ext
 
 # Setup
 title: tristanlukens
-description: "Drummer. Journaler. Muziekliefhebber. Cd-verzamelaar. Chemisch Technoloog. Nagelsbijter. Houdt van whiskey."
+description: "Drummer. Journaler. Muziekliefhebber. Cd-verzamelaar. Chemisch Technoloog. Nagelsbijter."
 baseurl: ""
 plugins:
   - "jekyll-paginate"
