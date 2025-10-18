@@ -5,8 +5,9 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date"
-    >{{ page.date | localize: "%e %B %Y" }} {% if page.lang != empty %}&middot;
-    {{ page.lang }} {% endif %}</span
+    >{{ page.date | localize: "%e %B %Y" }} {% if page.lang %}&middot; {{
+    page.lang }} {% endif %} {% if page.tag %}&middot; In categorie {{ page.tag
+    }}{% endif %}</span
   >
 
   <div>{{ content }}</div>

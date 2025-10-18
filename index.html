@@ -12,7 +12,8 @@ title: Home
 
     <span class="post-date"
       >{{ post.date | localize: "%e %B %Y" }} {% if post.lang %}&middot; {{
-      post.lang }} {% endif %}</span
+      post.lang }} {% endif %} {% if post.tag %}&middot; In categorie {{
+      post.tag }}{% endif %}</span
     >
 
     {{ post.content }}
