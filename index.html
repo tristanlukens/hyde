@@ -10,7 +10,10 @@ title: Home
       <a href="{{ post.url }}"> {{ post.title }} </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date"
+      >{{ post.date | date: "%B %e, %Y" }} {% if post.lang %}&middot; {{
+      post.lang }} {% endif %}</span
+    >
 
     {{ post.content }}
   </div>

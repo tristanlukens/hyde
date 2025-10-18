@@ -3,11 +3,12 @@ markdown: kramdown
 highlighter: rouge
 
 # Permalinks
-permalink: pretty
+# permalink: pretty
+permalink: /:categories/:year/:title:output_ext
 
 # Setup
 title: tristanlukens
-description: "Drummer. Journaler. Music enthusiast. Collects cds. Chemical Engineer. Nailbiter. Swears a lot."
+description: "Drummer. Journaler. Music enthusiast. Collects cds. Chemical Engineer. Nailbiter. Likes whiskey."
 baseurl: /
 plugins:
   - "jekyll-paginate"
