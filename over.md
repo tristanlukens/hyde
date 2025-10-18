@@ -5,6 +5,8 @@ title: Over mij
 
 <p class="message">TODO: updaten + vertalen</p>
 
+boe (test)
+
 I'm nineteen years old, and from the Netherlands. I've been obsessed with drumming for over eleven years, have a soft spot for everything computers, and I'm currently a student in Chemical Engineering.
 
 My biggest love will however always be music — from collecting CDs to having seen dozens of live shows the past few years. My biggest playlist — the one which I am most passionate about — is my car music playlist (titled 'My car, my rules, my music'), is public. Have a look!
